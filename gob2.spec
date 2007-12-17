@@ -8,7 +8,6 @@ Source:		http://ftp.gnome.org/pub/GNOME/sources/%{name}/%{name}-%{version}.tar.b
 URL:		http://www.5z.com/jirka/linux.html#gob
 BuildRequires:	flex
 BuildRequires:	libglib2.0-devel
-BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 
 %description
 GOB2 is a simple preprocessor for making GTK+ objects.  It makes objects
