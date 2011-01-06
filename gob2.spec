@@ -1,7 +1,7 @@
 Summary:	GTK+ Object Builder
 Name:		gob2
-Version:	2.0.17
-Release:	%mkrel 2
+Version:	2.0.18
+Release:	%mkrel 1
 License:	GPLv2+
 Group:		Development/GNOME and GTK+
 Source:		http://ftp.gnome.org/pub/GNOME/sources/%{name}/%{name}-%{version}.tar.bz2
