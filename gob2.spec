@@ -1,13 +1,13 @@
 Summary:	GTK+ Object Builder
 Name:		gob2
 Version:	2.0.18
-Release:	%mkrel 2
+Release:	%mkrel 3
 License:	GPLv2+
 Group:		Development/GNOME and GTK+
 Source:		http://ftp.gnome.org/pub/GNOME/sources/%{name}/%{name}-%{version}.tar.bz2
 URL:		http://www.5z.com/jirka/linux.html#gob
 BuildRequires:	flex
-BuildRequires:	libglib2.0-devel
+BuildRequires:	glib2-devel
 BuildRoot:	%{_tmppath}/%{name}-%{version}-root
 
 %description
