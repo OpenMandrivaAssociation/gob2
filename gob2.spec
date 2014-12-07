@@ -3,7 +3,7 @@
 Summary:	GTK+ Object Builder
 Name:		gob2
 Version:	2.0.19
-Release:	7
+Release:	8
 License:	GPLv2+
 Group:		Development/GNOME and GTK+
 Url:		http://www.5z.com/jirka/linux.html#gob
