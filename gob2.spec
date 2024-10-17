@@ -6,7 +6,7 @@ Version:	2.0.20
 Release:	1
 License:	GPLv2+
 Group:		Development/GNOME and GTK+
-Url:		http://www.5z.com/jirka/linux.html#gob
+Url:		https://www.5z.com/jirka/linux.html#gob
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/%{name}/%{url_ver}/%{name}-%{version}.tar.xz
 BuildRequires:	flex
 BuildRequires:	pkgconfig(glib-2.0)
