@@ -8,6 +8,11 @@ License:	GPLv2+
 Group:		Development/GNOME and GTK+
 Url:		https://www.5z.com/jirka/linux.html#gob
 Source0:	http://ftp.gnome.org/pub/GNOME/sources/%{name}/%{url_ver}/%{name}-%{version}.tar.xz
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	flex
 BuildRequires:	pkgconfig(glib-2.0)
 
